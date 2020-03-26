@@ -1,8 +1,11 @@
 <resources>
-    <string name="app_name">QingDao</string>
+    <string name="app_name">青岛流量</string>
     <string name="hello">
         您好！欢迎使用青岛流量领取软件\n
         接口来自于网络：https://www.iheit.com/ll/?type=pj
         每个号码每天最多领取3次，每月最多领取10次
+        本软件开源在：https://github.com/Halfsaltedfish/QingDao.git
+        作者：半条咸鱼
+        如有问题请发送至邮箱：379369845@qq.com
     </string>
 </resources>
